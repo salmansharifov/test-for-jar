@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aopDemo-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-for-jar/aopDemo-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
